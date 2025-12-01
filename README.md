@@ -3,6 +3,11 @@
 ## 📌 Project Overview
 A comprehensive business intelligence solution combining **SQL-based data warehousing** with **interactive dashboard visualizations** to analyze internet sales performance, customer behavior, and product trends.
 
+## 🗂️ Dataset Summary
+
+This dataset represents **3 years (2019–2021)** of sales data for an online bicycle and accessories retailer.  
+The company sells exclusively through **internet channels** and operates **globally across multiple continents**.
+
 ---
 ## 🛠️ Technical Stack
 
